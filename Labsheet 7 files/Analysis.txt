@@ -1,0 +1,4 @@
+Sum          254
+Average      28
+Largest      81
+Smallest     4
